@@ -10,7 +10,7 @@ Projeto implementado no curso de Html da Alura com o professor Pedro Marins
 | :fire: Desafio     | Curso HTML
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/adrianopavaneli/barbeariaalura/main/imagembarbearia.jpg?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
